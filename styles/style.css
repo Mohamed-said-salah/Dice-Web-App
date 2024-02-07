@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Galada&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+body {
+    background-color: rgba(25, 26, 39, 0.884);
+    color: rgb(119, 168, 154);
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+    padding-top: 30px;
+    font-family: "Galada", cursive;
+    margin-bottom: 0px;
+}
+
+p {
+    padding-top: 20px;
+    font-family: "Indie Flower", cursive;
+    font-size: 1.6rem;
+}
+
+.centered-table {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+img {
+    margin: 20px;
+    width: 200px;
+}
